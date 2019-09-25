@@ -1,0 +1,7 @@
+#SynTaxt for Javascript
+
+var greeting = 'Hello!';
+var angryGuest = 'get out of my house!';
+var happyGuest = 'thank for coming over!'
+var happtGreeting = greeting + ' ' + happyGuest
+var angryGreeting = greeting + ' ' + angryGuest
