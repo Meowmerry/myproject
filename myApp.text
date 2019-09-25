@@ -1,4 +1,5 @@
 #SynTaxt for Javascript
+console.lot('Hello')
 
 var greeting = 'Hello!';
 var angryGuest = 'get out of my house!';
